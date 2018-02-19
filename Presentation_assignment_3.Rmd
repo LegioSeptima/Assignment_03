@@ -1,6 +1,6 @@
 ---
 title: "Data Science in R: Assignment 3"
-author: "Steven Tran, Matthew David, Praveen Kenderla"
+author: "Steven Tran, Matthew D. Ciaramitaro, Praveen Kenderla"
 date: "February 18, 2018"
 output:
     ioslides_presentation: null
